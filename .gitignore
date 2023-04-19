@@ -1,0 +1,8 @@
+node_modules
+build
+mochawesome-report
+.nyc_output
+coverage
+*.class
+*.iml
+target
